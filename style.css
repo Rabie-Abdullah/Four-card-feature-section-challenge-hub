@@ -78,7 +78,6 @@ header {
 }
 .card3 {
     grid-row-start: 2;
-    align-self: center;
     border-top: 3px solid var(--orange);
 }
 .card4 {
